@@ -1,0 +1,7 @@
+{
+    "version": 6,
+    "entry_package": "videosource",
+    "download_url": "https://eprendre2.coding.net/p/tingshu/d/tingshu/git/raw/master/TingShuSources/videosource.jar",
+    "update_msg": "\n樱花动漫禁用缓存，目前没有一个很好的缓存管理方案，视频相关都先不做缓存。",
+    "support_url": ""
+}
