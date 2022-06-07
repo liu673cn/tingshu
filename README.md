@@ -9,3 +9,7 @@ https://pan.lanzoux.com/b873905
 主页 | 播放界面
 ---------|---------
 ![home](https://raw.githubusercontents.com/liu673cn/tingshu/main/art/home.jpg) | ![play](https://raw.githubusercontents.com/liu673cn/tingshu/main/art/play.jpg)
+
+主页 | 播放界面
+---------|---------
+![home](https://raw.githubusercontents.com/liu673cn/book/main/img/y01.jpg) | ![play](https://raw.githubusercontents.com/liu673cn/book/main/img/y02.jpg)
